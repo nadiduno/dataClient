@@ -11,9 +11,8 @@ tabela=tabela.drop("CustomerID",axis=1)
 #dropna para deletar valores vazios
 tabela = tabela.dropna()
 print('Dados de Cancelamentos dos cliente')
-df = pd.read_csv('./bike_sharing_dc.csv', parse_dates=['date'])
-# fig = px.histogram(tabela, x="date", y=, title=)
-# fig.update_layout( xaxis_title='Data', yaxis_title='', title = 'Cancelamentos dos cliente')
+
+
 
 
 #Análise inicial (cancelamento)

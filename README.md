@@ -8,5 +8,9 @@ pip install pandas
 #Rodar Applicação
 streamlit run main.py
 ```
+[Deploy](https://dataclient-nadiduno.streamlit.app/)
+
+<br />
+<br />
 
 com <💜 /> © 2023
